@@ -1,0 +1,2 @@
+# springsecurity-demo-kb
+springboot整合springsecurity前后端分离项目自定义权限配置
