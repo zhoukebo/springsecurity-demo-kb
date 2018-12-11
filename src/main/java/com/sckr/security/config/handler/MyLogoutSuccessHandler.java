@@ -17,7 +17,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * 处理验证成功
+ * 处理注销成功
  * @author zhoukebo
  * @date 2018/9/4
  */

@@ -18,8 +18,6 @@ import java.util.Collection;
  */
 @Component
 public class CustomPermissionEvaluator implements PermissionEvaluator {
-
-
     /**
      * 自定义验证方法
      * @param authentication        登录的时候存储的用户信息
